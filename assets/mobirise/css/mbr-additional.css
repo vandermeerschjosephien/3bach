@@ -1519,6 +1519,18 @@ body {
 .cid-rkqukMdwyB .mbr-section-btn P {
   color: #ffffff;
 }
+.cid-rqljrvsPAY {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #490cd4, #490cd4);
+}
+.cid-rqljrvsPAY .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-rqljrvsPAY .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rj5ZfMpuZo {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1548,18 +1560,6 @@ body {
 .cid-rj5ZfMpuZo .mbr-text,
 .cid-rj5ZfMpuZo .mbr-section-btn {
   color: #232323;
-}
-.cid-rqljrvsPAY {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(0deg, #490cd4, #490cd4);
-}
-.cid-rqljrvsPAY .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ff3366;
-}
-.cid-rqljrvsPAY .social-list a:focus {
-  text-decoration: none;
 }
 .cid-rqlHVcbtav {
   padding-top: 90px;
